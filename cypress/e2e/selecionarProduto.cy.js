@@ -49,3 +49,4 @@ cy.get('a.shopping_cart_link')
   .should('have.text', '1') // verifica se no carrinho exibe o nº 1
 
 }) //termina o it
+})
